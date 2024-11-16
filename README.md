@@ -2,6 +2,10 @@
 
 **Secure your data with Titan - the next-generation digital security solution**
 
+
+![BNNBVNBVN](https://github.com/user-attachments/assets/dd103866-a334-4811-832a-dd8e43ca27b0)
+
+
 ---
 
 ## Titan Secure Updates - First Release
