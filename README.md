@@ -11,7 +11,7 @@
 ## Titan Secure Updates - First Release
 
 Hello, Titan Secure community! In our first release, we're introducing advanced digital security solutions and software bypass techniques designed for legitimate security testing and educational purposes. Below are the key features of this release:
-
+ 
 ---
 
 ### Installation (Startup)
