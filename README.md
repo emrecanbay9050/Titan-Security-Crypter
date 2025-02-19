@@ -3,10 +3,10 @@
 **Secure your data with Titan - the next-generation digital security solution**
 
 
-![BNNBVNBVN](https://github.com/user-attachments/assets/dd103866-a334-4811-832a-dd8e43ca27b0)
+![1](https://github.com/user-attachments/assets/f2948a42-da87-41bb-8f6f-b10c391254d0)
 
+ 
 
----
 
 ## Titan Secure Updates - First Release
 
@@ -62,10 +62,9 @@ Currently bypasses the following antivirus software:
 
 Below are some screenshots showcasing the features of Titan Security Crypter:
 
-![Screenshot 1](https://github.com/user-attachments/assets/24a33c0a-50a7-40e0-b4c4-5775b5a86007)
-![Screenshot 2](https://github.com/user-attachments/assets/1df8daab-ef76-4172-82b4-e7da30064968)
-![Screenshot 3](https://github.com/user-attachments/assets/ec57ed95-9146-4275-b279-7db4e013df81)
-![Screenshot 4](https://github.com/user-attachments/assets/cda06600-26fa-43a2-9720-7e359ad6326b)
+![2](https://github.com/user-attachments/assets/4def2572-93b7-4b32-b7f0-768f03608d93)
+![4](https://github.com/user-attachments/assets/5209c696-6eda-4f01-b4a7-ed419c2af2ce)
+
 
 ---
 
@@ -73,6 +72,6 @@ Below are some screenshots showcasing the features of Titan Security Crypter:
 
 For support, updates, and further information, join our community:
 
-- **Telegram Channel**: [Titan Secure Updates](https://t.me/TitanSecureUpdates)
-- **Telegram Direct Contact**: [Titan Admin](https://t.me/TitanAdminSecure)
-- **Discord**: `titancrypter`
+- **Telegram Channel**: [Titan Secure Updates](https://t.me/TitanCrypterSecure)
+- **Telegram Direct Contact**: [Titan Admin](https://t.me/TitanSupportSecure)
+ 
